@@ -1,4 +1,10 @@
-# 🏦 AI-Powered Loan Application Processor - Setup Guide
+# 🏦 AI-Powered Loan Application Processor
+
+> **🚀 Live Demo:** [https://loan-proceappr-ai-han.streamlit.app/](https://loan-proceappr-ai-han.streamlit.app/)
+
+An AI-powered loan application processing system using Mistral AI's Document AI and Ministral-3B for intelligent risk analysis.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://loan-proceappr-ai-han.streamlit.app/)
 
 > **Note**: The original PRD is preserved below for reference. See "Quick Start" section for setup instructions.
 
